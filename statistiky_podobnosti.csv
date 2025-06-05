@@ -1,0 +1,2 @@
+total_words_extracted,unique_words,filtered_words,total_pairs_evaluated,mean_similarity,median_similarity,std_similarity,min_similarity,max_similarity
+449682,45303,1000,499500,0.2481814213386303,0.24415584415584413,0.12154824252452111,0.0,0.976
