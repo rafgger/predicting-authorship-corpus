@@ -3,6 +3,7 @@
 
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
 asd
 ![po](https://github.com/user-attachments/assets/51695bfb-3267-42b7-8636-7a5a0bb19461)
 
